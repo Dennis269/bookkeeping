@@ -252,12 +252,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/15984/Desktop/bookMana/library-management-system/ppt"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\15984\Desktop\bookMana\library-management-system\ppt" />
+      <recent name="C:\Users\15984\Desktop\bookMana\library-management-system" />
       <recent name="$PROJECT_DIR$/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\15984\Desktop\bookMana\library-management-system" />
     </key>
   </component>
   <component name="RunManager">
