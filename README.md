@@ -1,7 +1,13 @@
 ### <a href="https://github.com/TimDyh/library-management-system" target="_blank">项目 GitHub 仓库</a>
+管理员账号admin
+密码admin
 
+或者在命令行新建管理
+ ```bash
+ python manage.py createsuperuser
+   ```
 
-
+按照提示设置用户名、电子邮件和密码。
 ## 项目需求
 
 ![requirements](https://ipichub.oss-cn-hangzhou.aliyuncs.com/2020-07-19-060202.png)
